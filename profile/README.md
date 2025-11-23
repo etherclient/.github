@@ -31,7 +31,7 @@ Once released, it may be purchased for £10.00 or acquired for free by applicati
 ## darragh's Autoclicker v2
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/etherclient/.github/main/imgs/darraghs-clicker-v2/demo.png" width="50%" />
+  <img src="https://raw.githubusercontent.com/etherclient/.github/main/imgs/darraghs-clicker-v2/demo.gif" width="50%" />
 </p>
 
 Additionally, we will soon be offering a small freebie too! The second version of [darragh](https://github.com/darraghd493)'s Autoclicker.
