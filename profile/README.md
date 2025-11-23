@@ -19,9 +19,9 @@
 ## 1.8.9 (soon!)
 
 <p align="center">
-  <img src="https://clovr.store/media/product_screenshots/Main_Screen.png" width="30%" />
-  <img src="https://clovr.store/media/product_screenshots/Demo_Theme_1.png" width="30%" />
-  <img src="https://clovr.store/media/product_screenshots/Large_ClickGui.jpg" width="30%" />
+  <img src="https://raw.githubusercontent.com/etherclient/.github/main/imgs/client-1.8.9/main-screen.png" width="30%" />
+  <img src="https://raw.githubusercontent.com/etherclient/.github/main/imgs/client-1.8.9/clickgui-screen-1.png" width="30%" />
+  <img src="https://raw.githubusercontent.com/etherclient/.github/main/imgs/client-1.8.9/clickgui-screen-2.png" width="30%" />
 </p>
 
 We will soon be offering a highly customisable and affordable client for 1.8.9.
