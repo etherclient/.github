@@ -26,7 +26,9 @@
 
 We will soon be offering a highly customisable and affordable client for 1.8.9.
 
-Once released, it may be purchased for £10.00 or acquired for free by application.
+Once released, it can be purchased for £10.00 or acquired for free through applications.
+
+> You may view <a href="https://www.xe.com/en-gb/currencyconverter/convert/?Amount=10&From=GBP&To=EUR">conversion rates</a> here.
 
 ## darragh's Autoclicker v2
 
