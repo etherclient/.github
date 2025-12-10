@@ -9,12 +9,9 @@
 ## Team
 
 - [darraghd493](https://github.com/darraghd493) - owner
+- [allocatori](https://github.com/vinty1337) - developer
 - [td238](https://github.com/Eddie238) - administrator
 - [ic3y](https://github.com/ic3yin) - long-term tester
-
-### Previous Members
-
-- [allocatori](https://github.com/vinty1337) - developer (quit - 1.8.9)
 
 ## 1.8.9 (soon!)
 
