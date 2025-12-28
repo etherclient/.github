@@ -27,7 +27,7 @@ Once released, it can be purchased for £10.00 or acquired for free through appl
 
 > You may view <a href="https://www.xe.com/en-gb/currencyconverter/convert/?Amount=10&From=GBP&To=EUR">conversion rates</a> here.
 
-## darragh's Autoclicker v2
+## darragh's Clicker v2
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/etherclient/.github/main/imgs/darraghs-clicker-v2/demo.gif" width="50%" />
